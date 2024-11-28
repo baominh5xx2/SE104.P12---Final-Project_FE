@@ -32,10 +32,7 @@ import store  from './redux/store'
 import { QueryClientProvider } from '@tanstack/react-query';
 import { QueryClient } from '@tanstack/react-query';
 import { ReactQueryDevtools } from '@tanstack/react-query-devtools'
-<<<<<<< HEAD
 import 'antd/dist/antd.css'
-=======
->>>>>>> f707d43a9ea554870806ea9e4f6175f3b664d622
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
